@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Worker
+comment1.params=customer\ parcelMap
+comment1.target=void\ processCustomer(Customer,\ ParcelMap)
+numComments=2

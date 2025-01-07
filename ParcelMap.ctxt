@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ParcelMap
+comment1.params=id\ parcel
+comment1.target=void\ addParcel(java.lang.String,\ Parcel)
+comment2.params=id
+comment2.target=Parcel\ findParcel(java.lang.String)
+comment3.params=id
+comment3.target=void\ removeParcel(java.lang.String)
+comment4.params=
+comment4.target=java.util.Collection\ getParcels()
+numComments=5

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Manager
+comment1.params=parcelFile\ customerFile
+comment1.target=void\ initializeData(java.lang.String,\ java.lang.String)
+comment2.params=reportFile
+comment2.target=void\ generateReport(java.lang.String)
+comment3.params=
+comment3.target=void\ processCustomers()
+numComments=4
