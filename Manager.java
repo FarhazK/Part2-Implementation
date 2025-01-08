@@ -19,7 +19,11 @@ class Manager {
             }
         }
 
+<<<<<<< HEAD
         // Load customers - UPDATED CODE
+=======
+        // Load customers 
+>>>>>>> 402868e (Rest of the classes without GUI)
         try (BufferedReader br = new BufferedReader(new FileReader(customerFile))) {
             String line;
             int seqNo = 1; // Auto-generate sequence number starting from 1
@@ -61,4 +65,8 @@ class Manager {
 
     public ParcelMap getParcelMap() { return parcelMap; }
     public QueueOfCustomers getCustomerQueue() { return customerQueue; }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 402868e (Rest of the classes without GUI)

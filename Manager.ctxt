@@ -6,4 +6,12 @@ comment2.params=reportFile
 comment2.target=void\ generateReport(java.lang.String)
 comment3.params=
 comment3.target=void\ processCustomers()
+<<<<<<< HEAD
 numComments=4
+=======
+comment4.params=
+comment4.target=ParcelMap\ getParcelMap()
+comment5.params=
+comment5.target=QueueOfCustomers\ getCustomerQueue()
+numComments=6
+>>>>>>> 402868e (Rest of the classes without GUI)
